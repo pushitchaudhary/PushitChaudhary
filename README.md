@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **pushit.chaudhary.a22@icp.edu.np**
 
-- ⚡ Fun fact **I am MEME lover **
+- ⚡ Fun fact **I am MEME lover 😂**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
