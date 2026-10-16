@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pushitchaudhary" alt="pushitchaudhary" /></a> </p>
 
-- 🌱 I’m currently learning **Java, Networking, Python**
+- 🌱 I’m currently learning **Node, Typescript, FastApi**
 
 - 📫 How to reach me **pushit.chaudhary.a22@icp.edu.np**
 
